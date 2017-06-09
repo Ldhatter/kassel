@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KPI</string>
+    <string name="source_message">Source</string>
+    <string name="destination_message">Destination</string>
+    <string name="button_send">Submit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
